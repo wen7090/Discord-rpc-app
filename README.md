@@ -2,7 +2,7 @@
 
 [![Join our Discord](https://img.shields.io/discord/1258049354804232293.svg?logo=discord&logoColor=white&color=7289DA&label=Join%20our%20Discord&labelColor=7289DA)](https://discord.gg/YhTDM8FCrr)  
 [![GitHub stars](https://img.shields.io/github/stars/wen7090/Discord-rpc-app?label=GitHub%20Stars&logo=github)](https://github.com/wen7090/Discord-rpc-app/stargazers)  
-[![Downloads](https://img.shields.io/github/downloads/wen7090/Discord-rpc-app/v1.0.0/total.svg?logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/wen7090/Discord-rpc-app/releases/tag/v1.0.0)  
+[![Downloads](https://img.shields.io/github/downloads/wen7090/Discord-rpc-app/total.svg?logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/wen7090/Discord-rpc-app/releases/latest)  
 [![Version](https://img.shields.io/github/v/release/wen7090/Discord-rpc-app?label=Current%20Version&color=orange)](https://github.com/wen7090/Discord-rpc-app/releases/latest)  
 ![Code Size](https://img.shields.io/badge/Code%20Size-197.70%20MB-brightgreen)  
 [![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue.svg)](https://github.com/wen7090/Discord-rpc-app/wiki)  
