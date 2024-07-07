@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/wen7090/Discord-rpc-app?label=GitHub%20Stars&logo=github)](https://github.com/wen7090/Discord-rpc-app/stargazers)  
 [![Downloads](https://img.shields.io/github/downloads/wen7090/Discord-rpc-app/total.svg?logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/wen7090/Discord-rpc-app/releases/latest)  
 [![Version](https://img.shields.io/github/v/release/wen7090/Discord-rpc-app?label=Current%20Version&color=orange)](https://github.com/wen7090/Discord-rpc-app/releases/latest)  
-![Code Size](https://img.shields.io/badge/Code%20Size-197.70%20MB-brightgreen)  
+![Code Size](https://img.shields.io/badge/Code%20Size-198%20MB-brightgreen)  
 [![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue.svg)](https://github.com/wen7090/Discord-rpc-app/wiki)  
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal&color=00457C&labelColor=003087)](https://www.paypal.com/donate/?hosted_button_id=M5EMBRXC8EPEQ)  
 [![Heroku App](https://img.shields.io/badge/Heroku-Model%20Sharing-%238e44ad?style=flat&logo=heroku&logoColor=white)](https://underconstruction-80c3ff0a0a46.herokuapp.com/)  
